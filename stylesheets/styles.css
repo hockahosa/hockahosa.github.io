@@ -54,7 +54,12 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
 
+@font-face {
+  
 font-family: 'Fredericka the Great', cursive;
+src: url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+
+}
 
 body {
   background-color: #fff;
